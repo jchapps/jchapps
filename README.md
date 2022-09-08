@@ -1,4 +1,4 @@
-Hello, my names Josh. I`m a Fullstack Web Developer.
+<h2> Hello, my names Josh. I`m a Fullstack Web Developer. </h2> 
 
 - 📍 Tokyo
 - 📁 Portfolio: 
