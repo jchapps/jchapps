@@ -1,4 +1,4 @@
-<p> Hello, my names Josh. I`m a Fullstack Web Developer. </p> 
+<p> Hello, my names Josh. I'm a Fullstack Web Developer. </p> 
 
 - 📍 Tokyo
 - 📁 Portfolio: https://joshchappelow.me/
