@@ -1,7 +1,8 @@
 <p> Hello, my names Josh. I`m a Fullstack Web Developer. </p> 
 
 - 📍 Tokyo
-- 📁 Portfolio: 
+- 📁 Portfolio: https://joshchappelow.me/
+- 🔗 LinkedIn: https://www.linkedin.com/in/jdchappelow/
 - 📫 Contact me: jdchappelow@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
