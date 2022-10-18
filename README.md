@@ -1,4 +1,4 @@
-<p> Fullstack Web Developer. </p> 
+<p> こんにちは〜　Hello~ Fullstack Web Developer. </p> 
 
 - 📍 Tokyo
 - 📁 Portfolio: https://joshchappelow.me/
