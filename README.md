@@ -1,4 +1,4 @@
-<p> こんにちは〜　Hello~  </p> 
+<p> こんにちは〜</p> 
 
 - 📍 Tokyo
 - 📁 Portfolio: https://joshchappelow.me/
